@@ -11,9 +11,9 @@
 My name is Qaisara Mardhiah 👩🏻‍💻 and this is my first capstone project: 
 💸 Analysis of Healthcare Provider Fraud Detection. 📱
 
-For this project I implemented a gradient boosted tree 🌲 model (XGBoost) to classify qualification of sales demo calls in order to improve forecasting efforts. This was the first time machine learning (or data science) techniques had been used in the company on something other than the product. 
+For this project, I implemented supervised learning models, specifically Logistic Regression and Random Forest 🌲, to classify provider IDs into either fraud or non-fraud classes within the dataset. I achieved an impressive ~90% accuracy, despite the dataset being skewed towards non-fraudulent cases. To provide a more comprehensive assessment, I also employed ROC AUC for the Random Forest model, which is particularly valuable for evaluating accuracy in imbalanced datasets.
 
-I attained ~80% accuracy & demonstrated the value of implementing machine learning to solve low-hanging fruit problems on the business side. This demonstration lead the BI teamt committing to leveraging machine learning and data science for future initiatives. 🎉💪🏻
+This project serves as a testament to the power of machine learning and data science in addressing real-world challenges. It's a stepping stone towards future initiatives, underlining the potential of these technologies to drive meaningful impact. 🎉💪🏻
 
 
 To find out more about this project, check out the attached presentation below! 
