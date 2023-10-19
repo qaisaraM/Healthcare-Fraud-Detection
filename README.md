@@ -9,6 +9,7 @@
 👋 Hi!
 
 My name is Qaisara Mardhiah 👩🏻‍💻 and this is my first capstone project: 
+
 💸 Analysis of Healthcare Provider Fraud Detection. 📱
 
 For this project, I implemented supervised learning models, specifically Logistic Regression and Random Forest 🌲, to classify provider IDs into either fraud or non-fraud classes within the dataset. I achieved an impressive ~90% accuracy, despite the dataset being skewed towards non-fraudulent cases. To provide a more comprehensive assessment, I also employed ROC AUC for the Random Forest model, which is particularly valuable for evaluating accuracy in imbalanced datasets.
