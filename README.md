@@ -1,17 +1,15 @@
-# Healthcare-Fraud-Detection
-
 ![alt text](
        https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/4eaf512e0ab5f49bc1731101841136d9f2b1aa21/JPG/IMAGE%202.png
       )
 
 
 
-# 🕵️‍♀️ Classifying Sales Calls ☎️
+# 🕵️‍♀️ Healthcare Fraud Detection ☎️
 
 👋 Hi!
 
-My name is Mikiko Bazeley 👩🏻‍💻 and this is my first capstone project: 
-💸 Predicting the Outcomes of Demo Calls for a SaaS Company. 📱
+My name is Qaisara Mardhiah 👩🏻‍💻 and this is my first capstone project: 
+💸 Analysis of Healthcare Provider Fraud Detection 📱
 
 From Oct 2018 to April 2019 I completed a number of projects as part of the Springboard Data Science Track. 🧠 
 
@@ -22,20 +20,14 @@ I attained ~80% accuracy & demonstrated the value of implementing machine learni
 
 To find out more about this project, check out the attached presentation below! 
 
-☑️ Jupyter notebook for the project: [LINK](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Model%2BAnalysis/Capstone1-FinalVersion-BazeleyMikiko-Springboard.ipynb)  
+☑️ Jupyter notebook for the project: [LINK](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/7c8c26da27bb608901dcc9c44c50a146f38a8758/Jupyter%20Notebook/Capstone%20Project%20-%20Healthcare%20Fraud%20Detection%20System-QAISARA%20MARDHIAH%20BT%20ROSLAN.ipynb)  
 
-☑️ Final write up: [LINK](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Capstone%20Project%201_%20Final%20Report.pdf) 
-
-☑️ Slides presentation: [LINK](https://github.com/MMBazel/Classifying-Sales-Calls/tree/master/Slide%20JPGs) 
-
-☑️ The nitty gritty detailed reports depicting the process: 
-[Write Ups](https://github.com/MMBazel/Classifying-Sales-Calls/tree/master/Detailed%20Milestone%20Reports) | [Notebooks](https://github.com/MMBazel/Classifying-Sales-Calls/tree/master/Detailed%20Milestone%20Notebooks) 
-
+☑️ Slides presentation: [LINK](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/7c8c26da27bb608901dcc9c44c50a146f38a8758/CAPSTONE%20PROJECT%20-%20QAISARA%20MARDHIAH%20BT%20ROSLAN.pdf) 
 
 For more information about my Springboard work: 
 📝 All of the documentation, code, and notes can be found [here](https://github.com/MMBazel/springboard-program), as well as links to other resources I found helpful for successfully completing the program. 
 
-💬 For questions or comments, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mikikobazeley/). 
+💬 For questions or comments, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/qaisara-mardhiah-roslan). 
 
 ⚠️ If you find my repo useful, let me know OR ☕ consider buying me a coffee! https://www.buymeacoffee.com/mmbazel ☕.
 
