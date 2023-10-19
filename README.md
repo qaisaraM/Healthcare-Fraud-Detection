@@ -9,9 +9,7 @@
 👋 Hi!
 
 My name is Qaisara Mardhiah 👩🏻‍💻 and this is my first capstone project: 
-💸 Analysis of Healthcare Provider Fraud Detection 📱
-
-From Oct 2018 to April 2019 I completed a number of projects as part of the Springboard Data Science Track. 🧠 
+💸 Analysis of Healthcare Provider Fraud Detection. 📱
 
 For this project I implemented a gradient boosted tree 🌲 model (XGBoost) to classify qualification of sales demo calls in order to improve forecasting efforts. This was the first time machine learning (or data science) techniques had been used in the company on something other than the product. 
 
@@ -35,13 +33,13 @@ For more information about my Springboard work:
 --------------------------------------------------------------------------------------------------------------------------------
 
 
-![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide1.JPG?raw=true
+![alt text](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/ffbc9f7c0c18d2e26231e7c09e3e4fd2cd1c496f/JPG/01.jpg
       )
       
 --------------------------------------------------------------------------------------------------------------------------------
 
 
-![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide2.JPG?raw=true
+![alt text](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/ffbc9f7c0c18d2e26231e7c09e3e4fd2cd1c496f/JPG/02.jpg
       )
 --------------------------------------------------------------------------------------------------------------------------------
 
