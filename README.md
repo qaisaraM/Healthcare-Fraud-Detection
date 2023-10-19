@@ -1,7 +1,7 @@
 # Healthcare-Fraud-Detection
 
 ![alt text](
-       JPG/IMAGE 1.webp
+       https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/4eaf512e0ab5f49bc1731101841136d9f2b1aa21/JPG/IMAGE%202.png
       )
 
 
