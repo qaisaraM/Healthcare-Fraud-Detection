@@ -1,7 +1,7 @@
 # Healthcare-Fraud-Detection
 
 ![alt text](
-       https://github.com/MMBazel/springboard-program/blob/master/0.jpg
+       https://images.app.goo.gl/t4B6ZkCAuF9paAa69
       )
 
 
