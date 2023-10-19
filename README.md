@@ -1,7 +1,7 @@
 # Healthcare-Fraud-Detection
 
 ![alt text](
-       https://images.app.goo.gl/t4B6ZkCAuF9paAa69
+       JPG/IMAGE 1.webp
       )
 
 
