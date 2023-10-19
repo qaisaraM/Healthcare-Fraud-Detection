@@ -24,7 +24,7 @@ To find out more about this project, check out the attached presentation below!
 ☑️ Slides presentation: [LINK](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/7c8c26da27bb608901dcc9c44c50a146f38a8758/CAPSTONE%20PROJECT%20-%20QAISARA%20MARDHIAH%20BT%20ROSLAN.pdf) 
 
 For more information about my Springboard work: 
-📝 All of the documentation, code, and notes can be found [here](https://github.com/MMBazel/springboard-program), as well as links to other resources I found helpful for successfully completing the program. 
+📝 All of the documentation, code, and notes can be found [here](https://github.com/qaisaraM/Healthcare-Fraud-Detection.git), as well as links to other resources I found helpful for successfully completing the program. 
 
 💬 For questions or comments, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/qaisara-mardhiah-roslan). 
 
