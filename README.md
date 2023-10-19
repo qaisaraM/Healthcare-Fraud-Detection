@@ -44,47 +44,59 @@ For more information about my Springboard work:
 --------------------------------------------------------------------------------------------------------------------------------
 
 
-![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide3.JPG?raw=true
+![alt text](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/ffbc9f7c0c18d2e26231e7c09e3e4fd2cd1c496f/JPG/03.jpg
       )
       
 --------------------------------------------------------------------------------------------------------------------------------
 
 
-![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide4.JPG?raw=true
+![alt text](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/ffbc9f7c0c18d2e26231e7c09e3e4fd2cd1c496f/JPG/04.jpg
       )
       
 --------------------------------------------------------------------------------------------------------------------------------
 
 
-![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide5.JPG?raw=true
+![alt text](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/ffbc9f7c0c18d2e26231e7c09e3e4fd2cd1c496f/JPG/05.jpg
       )
       
  --------------------------------------------------------------------------------------------------------------------------------
 
 
-![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide6.JPG?raw=true
-      )
-      
-      
- --------------------------------------------------------------------------------------------------------------------------------
-
-
-![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide7.JPG?raw=true
+![alt text](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/ffbc9f7c0c18d2e26231e7c09e3e4fd2cd1c496f/JPG/06.jpg
       )
       
       
  --------------------------------------------------------------------------------------------------------------------------------
 
 
-![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide8.JPG?raw=true
+![alt text](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/ffbc9f7c0c18d2e26231e7c09e3e4fd2cd1c496f/JPG/07.jpg
       )
       
       
  --------------------------------------------------------------------------------------------------------------------------------
 
 
-![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide9.JPG?raw=true
+![alt text](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/ffbc9f7c0c18d2e26231e7c09e3e4fd2cd1c496f/JPG/08.jpg
       )
       
       
+ --------------------------------------------------------------------------------------------------------------------------------
+
+
+![alt text](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/ffbc9f7c0c18d2e26231e7c09e3e4fd2cd1c496f/JPG/09.jpg
+      )
+     
+      
+ --------------------------------------------------------------------------------------------------------------------------------
+
+
+![alt text](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/ffbc9f7c0c18d2e26231e7c09e3e4fd2cd1c496f/JPG/10.jpg
+      )      
+     
+      
+ --------------------------------------------------------------------------------------------------------------------------------
+
+
+![alt text](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/ffbc9f7c0c18d2e26231e7c09e3e4fd2cd1c496f/JPG/11.jpg
+      )      
       
